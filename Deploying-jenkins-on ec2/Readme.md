@@ -22,13 +22,13 @@ Local Machine → SSH → EC2 → Jenkins (Port 8080)
 
 **Screenshots:**
 
-EC2 instance running
-Jenkins dashboard
-Terminal setup
+EC2 instance running /
+Jenkins dashboard /
+Terminal setup /
 
 **Key Learnings:**
 
--> Understanding of CI/CD tools like Jenkins
--> Linux debugging (services, logs, ports)
--> Cloud deployment fundamentals
--> Handling real-world infra issues
+-> Understanding of CI/CD tools like Jenkins /
+-> Linux debugging (services, logs, ports) /
+-> Cloud deployment fundamentals /
+-> Handling real-world infra issues /
